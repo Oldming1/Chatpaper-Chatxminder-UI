@@ -1,0 +1,20 @@
+
+.DS_Store
+.idea
+
+# build
+*.egg
+*.egg-info
+dist
+build
+__pycache__
+.pypirc
+*.py[cod]
+
+# unittest or coverage reports
+.coverage
+htmlcov
+logs
+
+
+

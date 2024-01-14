@@ -1,0 +1,4 @@
+/c/Users/oldming/AppData/Local/Programs/Python/Python311/Scripts/serve_grobid.sh: line 7: wget: command not found
+unzip:  cannot find or open 0.6.2.zip, 0.6.2.zip.zip or 0.6.2.zip.ZIP.
+rm: cannot remove '0.6.2.zip': No such file or directory
+/c/Users/oldming/AppData/Local/Programs/Python/Python311/Scripts/serve_grobid.sh: line 13: cd: grobid-0.6.2: No such file or directory
